@@ -18,3 +18,19 @@ conference calendar
 
 
 https://ims.itmo.ru/compling.html
+
+
+
+Центральный университет - https://centraluniversity.ru
+Иннополис - https://innopolis.university/
+Сириус - https://siriusuniversity.ru/
+
+
+Институт когнитивных нейронаук ВШЭ - https://neuro.hse.ru/
+Институт когнитивных исследований СПБГУ - https://ics.spbu.ru/ (конференция Экспериментальные, корпусные и AI⁠-⁠исследования языка и культуры )
+
+Олимпиада по когнитивным наукам - https://psrs.spbu.ru/8-perechen-olimpiad/170-kognitivnye-issledovaniya
+
+
+
+

@@ -22,9 +22,10 @@ T‑Bank AI Research - https://ai.tbank.ru/research/
 Исследовательская лаборатория Т‑Банка в МФТИ - https://education.tbank.ru/academy/mipt_lab/
 Yandex research - https://research.yandex.com/
 Лаборатория ИИ Сбер - https://sberlabs.com/laboratories/sber-ai-lab
+Лаборатория нейронаук и поведения человека Сбер - https://sberlabs.com/laboratories/laboratoriya-neyronauk
 Sber AI - https://ai.sber.ru/issledovaniya
 
-Специализированные университеты ИИ:
+Специализированные университеты:
 Центральный университет - https://centraluniversity.ru
 Иннополис - https://innopolis.university/
 Сириус - https://siriusuniversity.ru/

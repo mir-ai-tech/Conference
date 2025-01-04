@@ -20,10 +20,12 @@ conference calendar
 Промышленные центры и лаборатории:
 T‑Bank AI Research - https://ai.tbank.ru/research/
 Исследовательская лаборатория Т‑Банка в МФТИ - https://education.tbank.ru/academy/mipt_lab/
+OMUT AI, T‑Bank и Центральный университет - https://omutai.centraluniversity.ru/
 Yandex research - https://research.yandex.com/
 Лаборатория ИИ Сбер - https://sberlabs.com/laboratories/sber-ai-lab
 Лаборатория нейронаук и поведения человека Сбер - https://sberlabs.com/laboratories/laboratoriya-neyronauk
 Sber AI - https://ai.sber.ru/issledovaniya
+AI VK HUB - https://team.vk.company/projects/315/
 
 Специализированные университеты:
 Центральный университет - https://centraluniversity.ru
@@ -31,8 +33,10 @@ Sber AI - https://ai.sber.ru/issledovaniya
 Сириус - https://siriusuniversity.ru/
 Сколтех - https://new.skoltech.ru/center/ai
 AIRI - https://airi.net/ru/
+Исследовательский центр доверенного искусственного интеллекта, ИСП РАН - https://www.ispras.ru/ai-center/ (конференция https://www.isprasopen.ru/)
 
 Центры ИИ на базе университетов:
+Исследовательские центры ИИ в РФ - https://ai.gov.ru/ai/research/
 Институт когнитивных нейронаук ВШЭ - https://neuro.hse.ru/ (конференции https://neuro.hse.ru/conferences)
 Институт когнитивных исследований СПБГУ - https://ics.spbu.ru/ (конференция Экспериментальные, корпусные и AI⁠-⁠исследования языка и культуры )
 Искусственный интеллект и наука МГУ - https://msu.ai/
@@ -56,6 +60,11 @@ AI-Alliance - https://github.com/The-AI-Alliance/ [https://thealliance.ai/about-
 Соревновательные мероприятия:
 Олимпиада по когнитивным наукам - https://psrs.spbu.ru/8-perechen-olimpiad/170-kognitivnye-issledovaniya
 Соревнование от конференции Диалог - https://dialogue-conf.org/ru/evaluation/
+
+
+Ведущие конференции:
+RecSys - KDD, RecSys, NIPS, WWW, CIKM, ICML
+
 
 Теги:
 Компьютерная лингвистика

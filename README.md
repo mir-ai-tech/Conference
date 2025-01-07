@@ -1,4 +1,5 @@
 Календарь конференций на 2025 год
+
 Российский
 Иностранный
 
@@ -13,6 +14,11 @@
 | 5   | Ассоциация компьютерной лингвистики                                                                |                 |                     | https://www.aclweb.org/portal/acl                                        |
 | 6   | International Symposium on Knowledge, Ontology, and Theory (KNOTH)                                 |                 |                     | https://knoth.ru/                                                        |
 |     |                                                                                                    |                 |                     |                                                                          |
+TODO
+
+
+Иностранные конференцИИ:
+TODO
 
 **Конференции**:
 Диалог 2025 - https://dialogue-conf.org/ru/
